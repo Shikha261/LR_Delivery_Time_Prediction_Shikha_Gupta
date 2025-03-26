@@ -3,7 +3,7 @@
 ## Repository Contents
 This repository contains:
 - Jupyter Notebook (`.ipynb`) for analysis  
-- Assignment Report (`.docx`)  
+- Assignment Report (`.pdf`)  
 - Exploratory Data Analysis (EDA) on NYC Taxi Data  
 
 ## Technologies Used
