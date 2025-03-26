@@ -3,8 +3,7 @@
 ## Repository Contents  
 This repository contains:  
 - Jupyter Notebook (`.ipynb`) for delivery time prediction  
-- Assignment Report (`.pdf`)  
-- Exploratory Data Analysis (EDA) on order delivery data  
+- Assignment Report (`.pdf`)   
 
 ## Technologies Used  
 This project utilizes the following Python libraries:  
@@ -12,6 +11,10 @@ This project utilizes the following Python libraries:
 - Matplotlib – for plotting graphs  
 - Pandas – for data manipulation  
 - NumPy – for numerical computing  
+- Scikit-learn – for building and evaluating machine learning models  
+- Statsmodels – for statistical modeling and regression analysis  
+- SciPy – for scientific computations  
+- Sklearn.preprocessing – for data preprocessing and feature scaling  
 
 ## Project Overview  
 This project analyzes order delivery patterns using real-world data.  
